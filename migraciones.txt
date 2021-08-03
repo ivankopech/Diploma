@@ -1,0 +1,19 @@
+delete from UsuarioAuditorias
+delete from PlanAuditorias;
+delete from ObraSocialAuditorias;
+delete from GrupoAuditorias;
+delete from EspecialidadAuditorias;
+delete from TurnoAuditorias;
+
+delete from Sesions;
+delete from Plans;
+delete from ObraSocials;
+delete from Especialidads;
+delete from Usuarios;
+delete from Grupoes;
+delete from Permisoes;
+delete from Turnoes;
+
+
+DateTime.now.ToString("dd/MM/yyyy HH:mm:ss")
+ToString("MM/dd/yy hh:mm:ss tt")

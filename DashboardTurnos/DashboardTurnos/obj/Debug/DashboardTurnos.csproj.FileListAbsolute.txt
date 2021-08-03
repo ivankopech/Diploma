@@ -1,0 +1,10 @@
+C:\Users\ivank\source\repos\DashboardTurnos\DashboardTurnos\bin\Debug\DashboardTurnos.exe.config
+C:\Users\ivank\source\repos\DashboardTurnos\DashboardTurnos\bin\Debug\DashboardTurnos.exe
+C:\Users\ivank\source\repos\DashboardTurnos\DashboardTurnos\bin\Debug\DashboardTurnos.pdb
+C:\Users\ivank\source\repos\DashboardTurnos\DashboardTurnos\obj\Debug\DashboardTurnos.csprojAssemblyReference.cache
+C:\Users\ivank\source\repos\DashboardTurnos\DashboardTurnos\obj\Debug\DashboardTurnos.Form1.resources
+C:\Users\ivank\source\repos\DashboardTurnos\DashboardTurnos\obj\Debug\DashboardTurnos.Properties.Resources.resources
+C:\Users\ivank\source\repos\DashboardTurnos\DashboardTurnos\obj\Debug\DashboardTurnos.csproj.GenerateResource.cache
+C:\Users\ivank\source\repos\DashboardTurnos\DashboardTurnos\obj\Debug\DashboardTurnos.csproj.CoreCompileInputs.cache
+C:\Users\ivank\source\repos\DashboardTurnos\DashboardTurnos\obj\Debug\DashboardTurnos.exe
+C:\Users\ivank\source\repos\DashboardTurnos\DashboardTurnos\obj\Debug\DashboardTurnos.pdb
